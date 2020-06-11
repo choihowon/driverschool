@@ -1,0 +1,66 @@
+body{
+    background-color: #f5f6f7;
+  }
+  #wrap{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:50px;
+  }
+  #header{
+    height:190px;
+    text-align: center;
+    line-height: 190px;
+  }
+  #header img{
+    width: 370px;
+  }
+  #content{
+    background-color: white;
+    box-shadow: 5px 5px 10px #ccc;
+    width:480px; 
+    margin:0 auto;
+    padding: 10px 20px 20px 20px ;
+  }
+
+  #btn_join, .join, #ph{
+    border-radius: 3px;
+  }
+
+  form div{
+    margin-bottom:6px;
+  }
+  #user_id{
+    padding-top: 20px;
+  }
+  .join, #ph{
+    font-size:15px;
+    padding-left:15px;
+    border:1px solid lightgrey;
+  }
+  .join{
+    width:96.4%;
+    height:45px;
+  }
+  #ph{
+    width:20%;
+    height:38px;
+  }
+  #user_who{
+    margin-bottom:50px;
+  }
+  #btn_join{
+    width:250px;
+    height:50px;
+    margin:0 auto;
+    display:block;
+    font-size:15px;
+    border:none;
+    color:#fff;
+    background: #f9b02b;
+  }
+  label{
+    display: inline-block;
+    margin:15px 0 8px 0;
+    letter-spacing: 1px;
+    font-weight: 800;
+    font-size: 0.9em;
+  }

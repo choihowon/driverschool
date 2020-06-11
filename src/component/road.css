@@ -1,0 +1,79 @@
+#mapWrapper{
+    text-align: center;
+}
+.d2{
+    background-color: rgba(255, 255, 237, 0.205);
+    height: 870px;
+}
+
+nav ul{height:90vh; width:100%;}
+nav ul{overflow:hidden; overflow-y:scroll;}
+
+a{
+    color:black;
+    padding: 5px;
+}
+.submenu{
+    width: 280px;
+    left: 86px;
+    top: 77px;
+    bottom: 0;
+    overflow: auto;
+    font-size: 12px;
+    background-color: #e8eced;
+    width: 20%;
+    height: 870px;
+    float: left;
+}
+.mapdiv{
+    width: 80%;
+    height: 870px;
+    float: left;
+}
+.roaddiv{
+    background-color: rgb(255, 254, 246);
+    margin: 0 auto;
+    width: 1020px;
+    font-family: 'Malgun Gothic', Dotum, sans-serif;
+    font-size: 15px;
+}
+.btnR {
+    width: 204px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 1px;
+    background-color: #fff;
+      display: inline-block;
+      outline: none;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      font: 14px/100% Arial, Helvetica, sans-serif;
+      text-shadow: 0  1px rgba(0,0,0,.3);
+      
+    margin-right: 5px;
+  }
+  .btnR:hover {
+      text-decoration: none;
+  }
+  .btnR:active {
+      position: relative;
+      top: 1px;
+  }
+  .btnR:focus {outline:0;}
+
+  .MuiList-root{
+      text-align: center;
+      background-color: white;
+  }
+  .listN{
+      background-color:rgb(126, 126, 126);
+      color:white;
+      border-bottom:1px white solid ;
+  }
+  .listI{
+    height: 40px;
+  }
+  .listB{
+    height: 50px;
+  }

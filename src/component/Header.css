@@ -1,0 +1,58 @@
+.logo {
+  height: 3rem;
+  background-color: white;
+  width: 100vw;
+  line-height: 0.5rem;
+  color: black;
+  font-size: 5rem;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 70px;
+
+}
+
+.menu {
+  background-color:#f9b02b;
+  height: 3rem;
+}
+.login{
+  text-align: right;
+  background-color: white;
+}
+
+a{
+  
+  color:black;
+}
+a:hover{
+  color:gray;
+  text-decoration:none;
+}
+.url{
+  color: #f9b02b;
+}
+.url:hover{
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration:none;
+}
+.bg-transparent{
+  border: transparent;
+}
+.carddda{
+  text-align: center;
+}
+.imgdiv{
+  margin: 50px 50px 0px 50px;
+  text-align: center;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  line-height: 150px;
+}
+.img{
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  border-radius: 10%;
+  
+}
