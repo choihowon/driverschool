@@ -1,0 +1,61 @@
+body{
+    background-color: #f5f6f7;
+    
+  }
+  #wrap{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:50px;
+  }
+  #header, #content, #btn_login{
+    width:460px;
+    margin:0 auto;
+  }
+  .login, .btn{
+    border-radius: 3px;
+  }
+  #header{
+    height:240px;
+    text-align: center;
+    line-height: 240px;
+  }
+  #header img{
+    width: 200px;
+    height: 200px;
+  }
+  #user_id{
+    margin-bottom:10px;
+  }
+  .login{
+    width:95.9%;
+    height:45px;
+    margin:0 auto;
+    font-size:15px;
+    padding-left:15px;
+    border:1px solid lightgrey;
+  }
+
+  #user_pw{
+    margin-bottom:30px;
+  }
+  #btn_login{
+    height:50px;
+    font-size:18px;
+    margin-bottom:40px;
+    border:none;
+    color:#fff;
+    background-color: #f9b02b;
+  }
+  #btn_join{
+    width:250px;
+    height:50px;
+    margin:0 auto;
+    display:block;
+    font-size:15px;
+    border:1px solid #f9b02b;
+    color:#f9b02b;
+    background: #fff;
+  }
+  p{
+    text-align: center;
+    font-size: 0.8em;
+  }

@@ -1,0 +1,12 @@
+
+.each-fade .image-container img {
+  width: 100%;
+  text-align: center;
+  max-height: initial;
+  margin-top: -25%;
+  margin-bottom: -30%;
+  filter: brightness(80%); 
+}
+h {
+  display: inline;
+}
